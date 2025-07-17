@@ -1,0 +1,6 @@
+torch==2.2.2
+transformers==4.41.1
+datasets==2.14.4
+rouge-score==0.1.2
+spacy==3.7.4
+fsspec==2023.6.0

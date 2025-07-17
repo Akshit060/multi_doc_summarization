@@ -1,0 +1,4 @@
+transformers>=4.36.0
+datasets>=2.14.0
+rouge-score
+torch
